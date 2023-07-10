@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @efeenderer
-- 🌱 I’m currently learning C programming on my university and I'm just a beginner.
 - 📫 You can reach me by my e-mail account. efe.ender.er@gmail.com
