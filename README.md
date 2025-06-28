@@ -8,6 +8,6 @@ I'm an Electronics & Communication Engineering student passionate about building
 - Real-time Chess Bot (YOLO + Stockfish + OpenCV)
 - Mobile interfaces with React Native + Flask
 
-🚀 Tools I use: PyTorch, OpenCV, YOLOv8, React Native, Flask
+🚀 Tools I use: PyTorch, OpenCV, YOLOv8, React , Flask
 
 🛠️ Always open to collaboration and learning new things.
